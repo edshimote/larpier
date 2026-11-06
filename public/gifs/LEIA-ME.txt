@@ -1,0 +1,5 @@
+Os GIFs selecionados são exibidos pelas URLs diretas do Tenor, configuradas em src/data/site.ts.
+Não foi possível baixar os arquivos neste ambiente; por isso é necessária conexão com a internet para exibi-los.
+
+Se você tiver permissão de usar cópias locais, salve-as nesta pasta e substitua as URLs por /gifs/arquivo.gif em src/data/site.ts.
+O site possui fundos animados próprios caso o GIF remoto falhe.
